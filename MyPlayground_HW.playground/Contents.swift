@@ -40,7 +40,6 @@ print("Площадь: \(square), Периметр: \(perimeter), Гипотен
 
 
 ///Пользователь вводит сумму вклада в банк и годовой процент. Найти сумму вклада через 5 лет
-//
 var summ: Double = 100
 var procent: Double = 10
 summ = summ + (summ * procent / 100)
